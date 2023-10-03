@@ -1,0 +1,36 @@
+(1,"Claro","Claro","732101",2)
+(1,"TIGO","TIGO","732103",2)
+(1,"732 360","732 360","732360",2)
+(1,"Movistar","Movistar","732123",2)
+(1,"Movistar","Movistar","732123",7)
+(1,"Claro","Claro","732101",0)
+(1,"TIGO","TIGO","732103",7)
+(1,"Movistar","Movistar","732123",0)
+(1,"732 360","732 360","732360",7)
+(1,"Claro","Claro","732101",7)
+(0-4)
+(0-2)
+
+(0,"732 360","732 360","732360",2)
+(0,"732 360","732 360","732360",7)
+(0,"TIGO","TIGO","732103",7)
+(0,"TIGO","TIGO","732103",2)
+(0,"Claro","Claro","732101",7)
+(0,"Claro","Claro","732101",0)
+(0,"Claro","Claro","732101",2)
+(0,"Movistar","Movistar","732123",0)
+(0,"Movistar","Movistar","732123",7)
+(0,"Movistar","Movistar","732123",2)
+
+(0-4)
+(0-2)
+
+4,0,"Claro",7
+4,0,"Claro",0
+4,0,"Claro",2
+
++COPS: (list of supported <stat>,long alphanumeric <oper>, short alphanumeric <oper>,numeric <oper>s)[,<Act>])s] [,,(list of supported <mode>s),(list of supported <format>s)]
++COPS: (<stat>,<oper>,<oper>,<oper>s)Acts] [,,(list of supported <mode>s),(list of supported <format>s)]
+
+
+AT+CGDCONT=1,"IP","internet.comcel.com.co",0,0,0,0
